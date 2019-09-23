@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="19.93733">
+<testcase classname="Create an Account and Add Items to wishlist" name="Create an Account and Login" time="19.93733">
+<system-out><![CDATA[Given I am on the autoPractice Page.........................................passed
+When I click on the login button............................................passed
+And I enter required details for account creation...........................passed
+Then I should be able to successfully create an account with "customer firstName" displayed at the top page.passed
+And I should be navigated to "my account" page..............................passed
+]]></system-out>
+</testcase>
+</testsuite>
