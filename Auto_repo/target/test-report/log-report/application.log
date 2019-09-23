@@ -1,0 +1,42 @@
+23/09/2019 21:04:45 [TestLogger][  INFO]:- Page loaded at first attempt
+23/09/2019 21:04:45 [TestLogger][  INFO]:- frontendPerformance: 2275 milliseconds
+23/09/2019 21:04:45 [TestLogger][  INFO]:- backendPerformance: 1001 milliseconds
+23/09/2019 21:04:46 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:46 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:47 [TestLogger][  INFO]:- Element is clicked
+23/09/2019 21:04:47 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:47 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:48 [TestLogger][  INFO]:- Has entered tester60@testMail.com
+23/09/2019 21:04:48 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:48 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:48 [TestLogger][  INFO]:- Element is clicked
+23/09/2019 21:04:53 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Element is clicked
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:53 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Has entered TesterFirstName 
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:53 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Has entered TesterLastName
+23/09/2019 21:04:53 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:53 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Has entered password123
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:54 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Has entered 10 TestAddress
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:54 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Has entered testCity
+23/09/2019 21:04:54 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:55 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Has entered 12345
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:55 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Has entered 07866654432
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:55 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Has entered myAddress
+23/09/2019 21:04:55 [TestLogger][  INFO]:- Element is displayed
+23/09/2019 21:04:55 [TestLogger][  INFO]:- The element enabled status is true
+23/09/2019 21:04:57 [TestLogger][  INFO]:- Element is clicked
+23/09/2019 21:04:57 [TestLogger][  INFO]:- waiting for element to be visible ...
